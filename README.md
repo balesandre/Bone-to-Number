@@ -25,8 +25,8 @@ After installation, the Addon will be available in the sidebar of the **3D View*
 2. Set the **transformation constraint** with the target being the chosen bone.
 3. In **Target Space**, select **"Local Space"**.
 4. In **Owner Space**, also select **"Local Space"**.
-5. In the **From** field, set the maximum value of the **Z** axis to **9m**.
-6. In **Map to**, choose the direction and change value to transform the mesh when the bone moves.
+5. In the **Map to** field, set the maximum value of the **Z** axis to **9m**.
+6. In **From**, choose the direction and change value to transform the mesh when the bone moves.
 
 ### Support and Questions:
 
@@ -62,8 +62,8 @@ Após a instalação, o Addon estará disponível na aba lateral da **3D View**.
 2. Defina o **constraint de transformation** com o target sendo o bone escolhido.
 3. Em **Target Space**, selecione **"Local Space"**.
 4. Em **Owner Space**, também selecione **"Local Space"**.
-5. No campo **From**, defina o valor máximo do eixo **Z** como **9m**.
-6. Em **Map to**, escolha a direção e o valor de mudança para transformar a mesh quando o bone se mover.
+5. No campo **Map to**, defina o valor máximo do eixo **Z** como **9m**.
+6. Em **From**, escolha a direção e o valor de mudança para transformar a mesh quando o bone se mover.
 
 ### Dúvidas e Suporte:
 
