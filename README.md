@@ -84,3 +84,5 @@ Após a instalação, o Addon estará disponível na aba lateral da **3D View**.
 
 Se precisar de ajuda, consulte o repositório no GitHub: [Bone-to-Number](https://github.com/balesandre/Bone-to-Number)  
 Ou entre em contato por e-mail: **bales.andre@gmail.com**
+
+See tutorial: https://youtu.be/Y_EB58HYox8?si=q8WIdSHc548Wv8ys
