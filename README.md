@@ -1,9 +1,12 @@
 To install this Addon, follow the steps below:
 
-1. Go to **Edit >> Preferences**.
-2. In the window that opens, select the **"Addons"** option.
-3. In the upper right corner, click on **"Install from Disk"**.
-4. Choose the location where you downloaded the file and click **"Install"**.
+1.Extract files:
+![Image](https://github.com/user-attachments/assets/b6575a75-1298-45ad-b6c9-aa74fb53ac6e)
+2. Go to **Edit >> Preferences**.
+3. In the window that opens, select the **"Addons"** option.
+4. In the upper right corner, click on **"Install from Disk"**.
+5. Choose the location where you downloaded the file and click **"Install"**.
+![Image](https://github.com/user-attachments/assets/e2c2ada6-7fe1-4e68-9d43-dba0327dd0a3)
 
 After installation, the Addon will be available in the sidebar of the **3D View**.
 
