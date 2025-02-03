@@ -13,11 +13,15 @@ To install this Addon, follow the steps below:
 
 After installation, the Addon will be available in the sidebar of the **3D View**.
 
+![Image](https://github.com/user-attachments/assets/47a71d45-375a-4d33-8a4c-b2cdcd6c69f9)
+
 ### How to Use the Addon:
 
 1. Click the **"Create Number"** button to generate numbers from 0 to 9.
 2. In **"Choose the font"**, a new window will open. Select the desired font for the UX.
 3. Click **"Make UX"** to create the system that will use the selected font to develop the model.
+
+![Image](https://github.com/user-attachments/assets/37c8e5e9-1f42-4dd0-9f51-7cd5a3d4f8af)
 
 ### Customizing the Bone Shape:
 
@@ -25,14 +29,19 @@ After installation, the Addon will be available in the sidebar of the **3D View*
 2. Go to **Bone Properties >> Viewport Display >> Custom Object**.
 3. Choose the **"number"** object as the new shape.
 
+
 ### Configuring the Empty Object:
 
-1. Configure the **Empty** object with the name **"Number_control"**.
-2. Set the **transformation constraint** with the target being the chosen bone.
-3. In **Target Space**, select **"Local Space"**.
-4. In **Owner Space**, also select **"Local Space"**.
-5. In the **Map to** field, set the maximum value of the **Z** axis to **9m**.
-6. In **From**, choose the direction and change value to transform the mesh when the bone moves.
+![Image](https://github.com/user-attachments/assets/953891dd-146e-4366-8679-5067347a5c6f)
+
+1. Select **empty arrow**
+2. Click in **Constraint Proprietes**
+3. In **Target Space**, select **"Local Space"** and in **Owner Space**, also select **"Local Space"** too.
+4. Choose how you want your bone to move.*Example: I want that when the bone moves 1m on the Y axis the numbers transform*
+5. Select the same transformation **axis** as the bone in **Z Suorce Axis**
+6. Add the max value of 9.99m to the empty transformation
+
+
 
 ### Support and Questions:
 
@@ -64,12 +73,12 @@ Após a instalação, o Addon estará disponível na aba lateral da **3D View**.
 
 ### Configurando o Objeto Empty:
 
-1. Configure o objeto **Empty** com o nome **"Number_control"**.
-2. Defina o **constraint de transformation** com o target sendo o bone escolhido.
-3. Em **Target Space**, selecione **"Local Space"**.
-4. Em **Owner Space**, também selecione **"Local Space"**.
-5. No campo **Map to**, defina o valor máximo do eixo **Z** como **9m**.
-6. Em **From**, escolha a direção e o valor de mudança para transformar a mesh quando o bone se mover.
+1. Selecione **empty arrow**
+2. Clique em **Constraint Proprietes**
+3. Em **Target Space**, selecione **"Local Space"** e em **Owner Space**, selecione também **"Local Space"**.
+4. Escolha como você quer que seu osso se mova.*Exemplo: Eu quero que quando o osso se mova 1m no eixo Y os números se transformam*
+5. Selecione o mesmo eixo de transformação que o osso em **Z Suorce Axis**
+6. Adicione o valor máximo de 9.99m à transformação
 
 ### Dúvidas e Suporte:
 
